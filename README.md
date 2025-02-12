@@ -31,5 +31,5 @@ Follow these instructions to set up the project locally for development and test
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/Eshwar-M17/meals_app
+   git clone https://github.com/Eshwar-M17/mealsapp
    cd mealsapp
